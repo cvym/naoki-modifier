@@ -28,7 +28,7 @@ module.exports = {
         const embed = new Discord.MessageEmbed()
             .setTitle(`Avatar de ${username}`)
             .setImage(avatar)
-            .setFooter({ text: `4Protect`})
+            .setFooter({ text: `Taki`})
             .setColor(color);
 
         message.channel.send({ embeds: [embed] });
