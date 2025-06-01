@@ -38,7 +38,7 @@ module.exports = {
                                 {
                                     label: "Message Personnalisé",
                                     value: `msgperso`,
-                                    emoji: "998562005155860510",
+                                    emoji: "1378753670904021115",
                                 },
                                 {
                                     label: 'MP Personnalisé',
@@ -48,27 +48,27 @@ module.exports = {
                                 {
                                     label: "Activer le message de bienvenue",
                                     value: "activemodule",
-                                    emoji: "972648521255768095",
+                                    emoji: "1378753255114412092",
                                 },
                                 {
                                     label: "Désactiver le message de bienvenue",
                                     value: "desactivemodule",
-                                    emoji: "988389407730040863",
+                                    emoji: "1378753021374107658",
                                 },
                                 {
                                     label: "Activerle mp de bienvenue",
                                     value: "activemodulemp",
-                                    emoji: "972648521255768095",
+                                    emoji: "1378753255114412092",
                                 },
                                 {
                                     label: "Désactiver le mp de bienvenue",
                                     value: "desactivemodulemp",
-                                    emoji: "988389407730040863",
+                                    emoji: "1378753021374107658",
                                 },
                                 {
                                     label: 'Annuler',
                                     value: "Cancel",
-                                    emoji: '988389407730040863',
+                                    emoji: '1378753021374107658',
                                 },
                             ])
 
