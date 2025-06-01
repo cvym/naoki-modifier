@@ -25,9 +25,9 @@ module.exports = {
           activities: [{
             name: `${str_content}`,
             type: "PLAYING",
-            url: "https://discord.gg/A5bfyv3AzB"
+            url: "https://discord.gg/taki"
           }],
-          status: "online"
+          status: "dnd"
         });
       }
     }
