@@ -24,7 +24,7 @@ module.exports = {
                 `Le membre est en vocal:`,
                 member.voice.channel
                     ? `<#${member.voice.channel.id}>`
-                    : `<:vc:1378750879372542022>・Le membre n'est pas en vocal.`,
+                    : `<:voc:1417221411155738804>・Le membre n'est pas en vocal.`,
                 true
             )
         message.channel.send({ embeds: [embed] })
