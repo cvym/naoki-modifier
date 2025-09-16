@@ -22,7 +22,7 @@ module.exports = {
             .setTitle(`${emote.utilitaire.vocales}・Stats de ${message.guild.name}`)
             .setColor(color)
             .setThumbnail(message.guild.iconURL({ dynamic: true }))
-            .setDescription(`<:membres:1378750698556100718>・*Membres :* **${total}** \n<:online:1378750787454504991>・*En ligne :* **${online}** \n<:vc:1378750879372542022>・*En vocal :* **${vocal}**  \n<:boosts:1378750995282001950>・*Boost :* **${boost}** `)
+            .setDescription(`<:membres:1417220448185225306>・*Membres :* **${total}** \n<:online:1417220915498061824>・*En ligne :* **${online}** \n<:voc:1417221411155738804>・*En vocal :* **${vocal}**  \n<:boost:1417221715611746434>・*Boost :* **${boost}** `)
             .setFooter({ text: `` })
             .setTimestamp()
             .setFooter({ text: `Stats ${message.guild.name}` })
