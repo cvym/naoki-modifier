@@ -25,7 +25,7 @@ module.exports = {
           activities: [{
             name: `${str_content}`,
             type: "PLAYING",
-            url: "https://discord.gg/kita"
+            url: "https://discord.gg/Dragonne"
           }],
           status: "dnd"
         });
